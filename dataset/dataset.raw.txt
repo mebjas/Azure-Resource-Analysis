@@ -775,7 +775,6 @@ Metric,Metric Display Name,Unit,Aggregation Type,Description,Dimensions
 QueryDuration,Query Duration,Milliseconds,Average,DAX Query duration in last interval,No Dimensions
 QueryPoolJobQueueLength,Threads: Query pool job queue length,Count,Average,Number of jobs in the queue of the query thread pool.,No Dimensions
 Microsoft.OperationalInsights/workspaces
-(Public Preview)
 Metric,Metric Display Name,Unit,Aggregation Type,Description,Dimensions
 Average_% Free Inodes,Average_% Free Inodes,Count,Average,Average_% Free Inodes,Computer, ObjectName, InstanceName, CounterPath, SourceSystem
 Average_% Free Space,Average_% Free Space,Count,Average,Average_% Free Space,Computer, ObjectName, InstanceName, CounterPath, SourceSystem
